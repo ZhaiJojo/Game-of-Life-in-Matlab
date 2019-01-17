@@ -1,1 +1,1 @@
-# Game-of-Life-in-Python
+# Game-of-Life-in-Matlab
